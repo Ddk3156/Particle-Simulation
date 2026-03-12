@@ -8,15 +8,6 @@ Particles gather at your hand when it is closed and burst outward when the hand 
 
 ---
 
-## Demo
-
-
-
-```
-![Demo](demo.mp4)
-```
-
----
 
 ## Features
 
