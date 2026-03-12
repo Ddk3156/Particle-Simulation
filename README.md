@@ -13,7 +13,7 @@ Particles gather at your hand when it is closed and burst outward when the hand 
 
 
 ```
-![Demo](demo.gif)
+![Demo](demo.mp4)
 ```
 
 ---
