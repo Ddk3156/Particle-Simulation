@@ -134,4 +134,4 @@ Make sure your webcam is connected.
 
 ## License
 
-This project is provided for educational purposes and can be licensed under the MIT License.
+This project is provided for educational purposes and is licensed under the MIT License.
